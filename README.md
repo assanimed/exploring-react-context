@@ -40,6 +40,7 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 ----
 *Built with JavaScript and React*
+<br/>
 <a href="https://github.com/assanimed/exploring-react-context/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=assanimed/exploring-react-context" />
 </a>  
